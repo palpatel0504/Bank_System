@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Aldrich&display=swap");
+.nav-link {
+  margin-right: 15px;
+  color: #2f363f;
+  letter-spacing: 0.5px;
+  transition: 0.5s;
+  font-family: 'Aldrich', sans-serif;
+}
+.navbar-brand {
+  color: #4c4b4b;
+  letter-spacing: 0.5px;
+  font-family: 'Aldrich', sans-serif;
+}
+h2 {
+  color: #4c4b4b;
+  letter-spacing: 0.5px;
+  font-family: 'Aldrich', sans-serif;
+}
